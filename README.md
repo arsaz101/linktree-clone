@@ -9,7 +9,7 @@
 
 </div>
 
-# Fullstack Linktri Clone
+# Fullstack Linktree Clone
 
 This project is a fullstack clone of Linktree built with Next.js, Tailwind CSS, and MongoDB. It allows users to create a personalized page with links to their content across the internet, customize their profile, and view analytics on their links.
 
@@ -79,10 +79,6 @@ To get a local copy up and running follow these simple steps.
 - `components`: Reusable UI components.
 - `models`: Mongoose models for MongoDB.
 - `styles`: Global styles and Tailwind configuration.
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 ## License
 
